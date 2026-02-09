@@ -40,9 +40,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name: ABISHA RANI S
+### Name: RESHMA R
 
-### Register Number: 212224040012
+### Register Number: 212224040274
 
 ```
 import torch
